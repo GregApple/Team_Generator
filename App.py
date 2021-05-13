@@ -45,7 +45,7 @@ def clean_player_stats():
 
 def balance_teams(team, my_players, my_teams):
     
-  
+  #Review the use of zip to improve the code here.
   teamroster1 = []
   teamroster2 =[]
   teamroster3 = []
